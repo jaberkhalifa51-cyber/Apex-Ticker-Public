@@ -4,7 +4,7 @@
 
 [![Visit ApexTicker](https://img.shields.io/badge/Visit-ApexTicker.com-brightgreen?style=for-the-badge)](https://apexticker.com)
 [![ProductHunt](https://img.shields.io/badge/ProductHunt-Launch-orange?style=for-the-badge)](https://producthunt.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ApexTicker--Public-black?style=for-the-badge)](https://github.com/yourusername/ApexTicker-Public)
+[![GitHub](https://img.shields.io/badge/GitHub-ApexTicker--Public-black?style=for-the-badge)](https://github.com/jaberkhalifa51-cyber/ApexTicker-Public)
 
 ---
 
