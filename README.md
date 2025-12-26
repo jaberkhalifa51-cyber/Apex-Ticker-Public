@@ -1,16 +1,16 @@
-# 🚀 ApexTicker - Real-Time Stock Market Tracker
+# 🚀 Apex Ticker - Real-Time Stock Market Tracker
 
 > **Free. Fast. No Clutter. Just Your Daily Top Gainers.**
 
-[![Visit ApexTicker](https://img.shields.io/badge/Visit-ApexTicker.com-brightgreen?style=for-the-badge)](https://apexticker.com)
+[![Visit Apex Ticker](https://img.shields.io/badge/Visit-ApexTicker.com-brightgreen?style=for-the-badge)](https://apexticker.com)
 [![ProductHunt](https://img.shields.io/badge/ProductHunt-Launch-orange?style=for-the-badge)](https://producthunt.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ApexTicker--Public-black?style=for-the-badge)](https://github.com/jaberkhalifa51-cyber/ApexTicker-Public)
 
 ---
 
-## ✨ What is ApexTicker?
+## ✨ What is Apex Ticker?
 
-ApexTicker is a **free, real-time stock market tracker** that shows you the **top 5 performing stocks of the day** without requiring login, subscriptions, or dealing with ads.
+Apex Ticker is a **free, real-time stock market tracker** that shows you the **top 5 performing stocks of the day** without requiring login, subscriptions, or dealing with ads.
 
 Perfect for:
 - 📈 Day traders
@@ -80,7 +80,7 @@ Perfect for:
 ### Desktop View - Full Features
 ![ApexTicker Desktop](screenshot-2.png)
 
-### logo apexticker - On the Go
+### logo apex ticker - On the Go
 ![ApexTicker Mobile](screenshot-1.png)
 
 ### Why Choose ApexTicker? - Eye Friendly
@@ -94,7 +94,7 @@ Perfect for:
 
 ---
 
-## 💡 Why ApexTicker?
+## 💡 Why Apex Ticker?
 
 ### Problem
 Most trading platforms are:
@@ -167,8 +167,8 @@ ApexTicker is built for traders who value their time and hate distractions.
 ## 📧 Contact
 
 - **Website:** [apexticker.com](https://apexticker.com)
-- **Twitter:** [@ApexTicker](#)
-- **Email:** [hello@apexticker.com](#)
+- **Twitter:** [@Apex Ticker](#)
+- **Email:** [admin@apexticker.com](#)
 
 ---
 
@@ -188,7 +188,7 @@ Built with ❤️ using:
 
 ---
 
-**Made with 💚 by ApexTicker**
+**Made with 💚 by Apex Ticker**
 
 *"Stay ahead of the market. One trade at a time."*
 
