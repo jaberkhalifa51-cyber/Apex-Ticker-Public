@@ -1,0 +1,3 @@
+Symbol,Status,LastUpdate
+APEX,Active,={{ $now }}
+MARKET,Tracking,Live
